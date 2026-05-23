@@ -128,23 +128,6 @@ class KhwahishBhati:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=khwahishbhati&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khwahishbhati&bg_color=0d1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true)
-
-</div>
 
 ---
 

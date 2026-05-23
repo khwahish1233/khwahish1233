@@ -113,20 +113,6 @@ class KhwahishBhati:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khwahishbhati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khwahishbhati&theme=tokyonight&hide_border=true&background=0d1117&stroke=F97316&ring=F97316&fire=FF6B35&currStreakLabel=F97316" />
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khwahishbhati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=ffffff&langs_count=8" />
-
-</div>
-
----
 
 
 ---

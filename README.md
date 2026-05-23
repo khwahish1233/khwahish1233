@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khwahish%20Bhati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Web%20Craftsman&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khwahish%20Bhati&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Python%20%7C%20Streamlit%20%7C%20Creative%20Builder&descAlignY=58&descSize=16"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Khwahish+%F0%9F%91%8B;Frontend+Developer+%F0%9F%8E%A8;React+%26+JavaScript+Lover+%E2%9A%A1;Building+Beautiful+UIs+%F0%9F%92%85;Turning+Ideas+into+Pixels+%F0%9F%8C%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&random=false&width=700&lines=Hey!+I'm+Khwahish+Bhati+%F0%9F%91%8‹;Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;Python+%7C+React+%7C+Streamlit+Builder+%E2%9A%A1;11%2B+Projects+%26+Still+Counting+%F0%9F%9A%80;From+Jodhpur+%C2%B7+Rajasthan+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=khwahishbhati&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/khwahishbhati?style=for-the-badge&color=orange&labelColor=1a1a2e)
 
@@ -18,57 +17,97 @@
 
 ---
 
-## 🌈 About Me
+## 🧠 About Me
 
-```javascript
-const khwahish = {
-  name:        "Khwahish Bhati",
-  role:        "Frontend Developer 🎨",
-  location:    "India 🇮🇳",
-  focus:       ["React", "JavaScript", "UI/UX Design"],
-  currentlyLearning: ["Next.js", "TypeScript", "Framer Motion"],
-  passions:    ["Clean Code", "Pixel-Perfect UI", "Creative Animations"],
-  funFact:     "I debug with console.log and zero shame 😄",
-  motto:       "Every pixel tells a story — make it beautiful ✨"
-};
+```python
+class KhwahishBhati:
+    name       = "Khwahish Bhati"
+    role       = ["Aspiring AI/ML Engineer", "Full-Stack Web Developer", "Python GUI Dev"]
+    college    = "JIET Group of Institutions, Jodhpur"
+    degree     = "B.Tech (2024 – Present)"
+    location   = "Jodhpur, Rajasthan, India 🇮🇳"
+    languages  = {"English": "Professional", "Hindi": "Native"}
+    projects   = "11+ real-world apps built from scratch 🚀"
+    superpower = "Blending AI intelligence with great design ✨"
+    interests  = [
+        "AI & Machine Learning 🤖",
+        "Full-Stack Web Dev 🌐",
+        "Data Visualization 📊",
+        "Game Development 🎮",
+        "3D Design & Prototyping 🎲",
+        "Open Source 🌍"
+    ]
+    motto      = "Build things that matter. Make them beautiful. 💡"
 ```
+
+> 🎯 *Motivated B.Tech student passionate about AI/ML, web development, and creative problem-solving. Loves building practical apps that blend intelligence with great design.*
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🎨 Frontend Magic
+### 💻 Languages
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### 🤖 AI / ML & Data
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering%2FML-00897B?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+### 🌐 Web Development
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0081CB?style=for-the-badge&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PHP Backend](https://img.shields.io/badge/Backend_Integration-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
-### 🎭 Styling & Design
+### 🎨 GUI, 3D & Tools
 <div align="center">
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-### ⚙️ Tools & Ecosystem
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Python_Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad_3D-E47128?style=for-the-badge&logo=autodesk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects (11+ Built from Scratch!)
+
+<div align="center">
+
+| # | Project | Tech Stack | Highlights |
+|:---:|:---|:---:|:---|
+| 🛍️ | **GlowBeauty — E-Commerce Site** | HTML · CSS · JS · PHP | Live product search, cart, user auth |
+| 👗 | **SlaySnap — AI Virtual Wardrobe** | Python · Tkinter · AI Logic | AI outfit recommendations by occasion |
+| 🎮 | **Horror Ludo Game** | Python / Web | Horror-themed custom game logic & visuals |
+| 🍄 | **3D Mario-Style Portfolio** | HTML · CSS · JS · 3D | Gamified, interactive, unforgettable UI |
+| 🏫 | **Classroom Engagement App** | Web Technologies | Real-time student-educator interaction |
+| 📚 | **Course Progress Tracker** | Web / App Dev | Academic goal tracking & dashboards |
+| 📈 | **Stock Analysis Dashboard** | Python · Streamlit | Dynamic charts, stock comparison filters |
+| 🍽️ | **Canteen Management System** | Web · Supabase · SQL | Full-stack ordering with live DB |
+| 🔵 | **Clustering Explanation App** | Python · Streamlit · ML | Interactive K-Means ML visualizer |
+| 🎬 | **Movie Explorer App** | Web / App Dev | Genre filtering, cinematic browsing UI |
+| ⚡ | **Electronics Circuit Project** | Tinkercad · Microcontrollers | Sensor-based circuit from scratch |
 
 </div>
 
@@ -99,22 +138,6 @@ const khwahish = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 💡 Description | 🔧 Tech |
-|:---:|:---:|:---:|
-| **Project Alpha** | A stunning UI dashboard with React | React, TailwindCSS |
-| **Portfolio v2** | My personal animated portfolio | Next.js, Framer Motion |
-| **UI Component Lib** | Reusable design system components | React, Storybook |
-
-> 📌 *Pin your best repositories to showcase your work below!*
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -125,17 +148,42 @@ const khwahish = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Goals & Roadmap
 
 <div align="center">
 
 | Goal | Status |
 |:---|:---:|
-| 🏗️ Build 5 full React projects | 🔥 In Progress |
-| 📚 Master TypeScript deeply | 🔥 In Progress |
-| 🚀 Launch a personal SaaS product | 🎯 Planned |
-| 🌐 Contribute to Open Source | 🎯 Planned |
-| ✍️ Start a dev blog | 🎯 Planned |
+| 🤖 Deepen AI/ML skills — TensorFlow, Scikit-learn | 🔥 In Progress |
+| 🌐 Master Full-Stack with React + Node.js | 🔥 In Progress |
+| 📊 Build & deploy advanced Streamlit ML apps | 🔥 In Progress |
+| 🧬 Contribute to Open Source ML projects | 🎯 Planned |
+| 🚀 Launch a SaaS product powered by AI | 🎯 Planned |
+| ✍️ Start a blog about AI & Dev projects | 🎯 Planned |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏛️ Institution | 📖 Degree | 📍 Location | 🗓️ Year |
+|:---:|:---:|:---:|:---:|
+| **JIET Group of Institutions** | B.Tech | Jodhpur, Rajasthan, India | 2024 – Present |
+
+</div>
+
+---
+
+## 💡 Interests
+
+<div align="center">
+
+`🤖 AI & Machine Learning` &nbsp; `🌐 Full-Stack Web Dev` &nbsp; `📊 Data Visualization`
+
+`🎮 Game Development` &nbsp; `🎲 3D Design & Prototyping` &nbsp; `🌍 Open Source`
 
 </div>
 
@@ -145,11 +193,10 @@ const khwahish = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khwahishbhati)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khwahishbhati)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khwahishbhati)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://khwahishbhati.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khwahish-bhati-245746353)
+[![Portfolio](https://img.shields.io/badge/3D_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://khwahishbhati.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khwahishbhati@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khwahishbhati)
 
 </div>
 
@@ -162,24 +209,10 @@ const khwahish = {
 
 <br/>
 
-**⭐ If you like what you see, consider starring my repos — it keeps me going! ⭐**
+*⭐ If you like my work, drop a star on my repos — it means the world! ⭐*
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-## Hi there 👋
-
-<!--
-**khwahish1233/khwahish1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
